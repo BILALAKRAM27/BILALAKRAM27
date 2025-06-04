@@ -1,11 +1,31 @@
-- 👋 Hi, I’m @BILALAKRAM27
-- 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently a student at COMSATS Institute of Information Technology (CIIT)
-- 📫 How to reach me 190204ba@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact:  Despite being involved in tech, I love spending time outdoors and exploring nature. It helps me balance the screen time with some fresh air and physical activity!
+<h1 align="center">Hi there 👋, I'm Bilal Akram</h1>
+<h3 align="center">Aspiring Software Engineer | Django Developer | Innovation-Driven Coder | Cybersecurity Enthusiast</h3>
 
-<!---
-BILALAKRAM27/BILALAKRAM27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=460&lines=I+love+building+things+with+code!;Cybersecurity+is+cool+%F0%9F%94%90;Always+learning+%F0%9F%93%9A;Open+to+internships+%F0%9F%9A%80;Let's+collaborate!+%F0%9F%A4%9D" alt="Typing SVG" />
+</p>
+
+---
+
+### 💡 About Me
+
+- 👋 Hi, I’m **@BILALAKRAM27**
+- 🎓 6th-semester **Software Engineering** student at **COMSATS University Islamabad (CIIT)**
+- 👀 Passionate about **cybersecurity**, backend development, and turning ideas into code
+- 🔧 Building **BUZTable** – a Django-based restaurant reservation & food ordering system  
+- 🤟 Created a **Real-time Sign Language Interpreter** using Python, OpenCV, and MediaPipe  
+- 🚗 Built an **RC/Bluetooth/Voice Controlled Car** blending hardware & software  
+- ⚡ Fun fact: I love the outdoors! Hiking and exploring nature balances all that screen time.
+- 😄 Pronouns: **he/him**
+- 🌱 Always learning new things – currently exploring **Kotlin** and **ethical hacking**
+
+---
+
+### 🛠️ Tech Stack
+
+```yaml
+Languages:        Python, C++, Kotlin (Beginner)
+Frameworks:       Django, MediaPipe
+Databases:        MySQL, MS SQL
+Tools & Platforms: Git, GitHub, Cisco Packet Tracer, Excel, VS Code
+Concepts:         UI/UX Design, Web Development, TTS Integration, Cybersecurity Basics
