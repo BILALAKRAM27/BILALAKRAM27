@@ -1,6 +1,4 @@
 
-
-````markdown
 <h1 align="center">Hey there! 👋 I'm Bilal Akram</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | 🐍 Django Developer | 🛡 Cybersecurity Enthusiast | 💡 Lifelong Learner</h3>
 
