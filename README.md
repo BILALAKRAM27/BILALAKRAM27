@@ -21,8 +21,11 @@
 
 # Connect With Me
 -📧 Email: 190204ba@gmail.com
+
 -💼 LinkedIn: www.linkedin.com/in/bilal-akram-081b86268
+
 -🌍 Portfolio (coming soon!)
+
 -🙌 Open to: Internships, Freelancing, and Collaborations
 
 ---
