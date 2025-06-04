@@ -21,6 +21,7 @@
 
 ---
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BILALAKRAM27&show_icons=true&theme=radical" alt="stats" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BILALAKRAM27&theme=radical" alt="streak" /> </p>
 ### 🛠️ Tech Stack
 
 ```yaml
@@ -29,3 +30,13 @@ Frameworks:       Django, MediaPipe
 Databases:        MySQL, MS SQL
 Tools & Platforms: Git, GitHub, Cisco Packet Tracer, Excel, VS Code
 Concepts:         UI/UX Design, Web Development, TTS Integration, Cybersecurity Basics
+
+
+Connect With Me
+📧 Email: 190204ba@gmail.com
+
+💼 LinkedIn: linkedin.com/in/your-username (replace with real link)
+
+🌍 Portfolio (coming soon!)
+
+🙌 Open to: Internships, Freelancing, and Collaborations
