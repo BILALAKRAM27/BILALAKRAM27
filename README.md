@@ -24,7 +24,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BILALAKRAM27&show_icons=true&theme=radical" alt="stats" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BILALAKRAM27&theme=radical" alt="streak" /> </p>
 ### 🛠️ Tech Stack
 
-yaml
+```yaml
 Languages:        Python, C++, Kotlin (Beginner)
 Frameworks:       Django, MediaPipe
 Databases:        MySQL, MS SQL
