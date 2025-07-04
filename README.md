@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Django Developer | Innovation-Driven Coder | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=I+love+building+things+with+code!;Cybersecurity+is+cool+%F0%9F%94%90;Always+learning+%F0%9F%93%9A;Open+to+internships+%F0%9F%9A%80;Let's+collaborate!+%F0%9F%A4%9D;Small+progress+is+still+progress." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=I+love+building+things+with+code!;Cybersecurity+is+cool+%F0%9F%94%90;Always+learning+%F0%9F%93%9A;Open+to+internships+%F0%9F%9A%80;Let's+collaborate!+%F0%9F%A4%9D;Small+progress+is+still+progress." alt="Typing SVG" />
 </p>
 
 
