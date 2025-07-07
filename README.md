@@ -27,7 +27,7 @@
 
 -💼 LinkedIn: www.linkedin.com/in/bilal-akram-081b86268
 
--🌍 Portfolio (coming soon!)
+-🌍 Portfolio: https://bilalakram27.github.io/Portfolio/ 
 
 -🙌 Open to: Internships, Freelancing, and Collaborations
 
