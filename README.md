@@ -166,13 +166,14 @@ me.say_hi()
 ---
 
 ## 📊 GitHub Intelligence Report
-
+ 
 <div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BILALAKRAM27&theme=tokyonight&background=0d1117&border=00d4ff&ring=7b2fff&fire=00d4ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00d4ff&sideNums=7b2fff" />
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BILALAKRAM27&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=00d4ff&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;icon_color=7b2fff&amp;text_color=ffffff&amp;hide_border=false&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=BILALAKRAM27&amp;theme=tokyonight&amp;background=0d1117&amp;border=00d4ff&amp;ring=7b2fff&amp;fire=00d4ff&amp;currStreakLabel=ffffff&amp;sideLabels=ffffff&amp;currStreakNum=00d4ff&amp;sideNums=7b2fff" />
+<br/><br/>
+ 
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BILALAKRAM27&amp;layout=donut&amp;theme=tokyonight&amp;border_color=00d4ff&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;text_color=ffffff&amp;hide_border=false" />
 </div>
-
 ---
 
 ## 🏆 Trophy Cabinet
