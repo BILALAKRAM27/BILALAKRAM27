@@ -174,7 +174,7 @@ me.say_hi()
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BILALAKRAM27&layout=compact&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&hide_border=false" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BILALAKRAM27&amp;layout=donut&amp;theme=tokyonight&amp;border_color=00d4ff&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;text_color=ffffff&amp;hide_border=false" />
 
 </div>
 
