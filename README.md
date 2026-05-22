@@ -169,13 +169,7 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BILALAKRAM27&show_icons=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=ffffff&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" />
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BILALAKRAM27&theme=tokyonight&background=0d1117&border=00d4ff&ring=7b2fff&fire=00d4ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00d4ff&sideNums=7b2fff" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BILALAKRAM27&layout=donut&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&hide_border=false" />
 
 </div>
 
