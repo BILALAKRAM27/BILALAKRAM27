@@ -13,11 +13,11 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=BILALAKRAM27&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/BILALAKRAM27)
+[![Profile Views](https://komarev.com/ghpvc/?username=BILALAKRAM27&amp;style=for-the-badge&amp;color=00d4ff&amp;label=PROFILE+VIEWS)](https://github.com/BILALAKRAM27)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/BILALAKRAM27?style=for-the-badge&color=7b2fff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/BILALAKRAM27?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/BILALAKRAM27?style=for-the-badge&amp;color=7b2fff&amp;labelColor=0d1117&amp;label=FOLLOWERS)](https://github.com/BILALAKRAM27?tab=followers)
 &nbsp;
-[![Open to Work](https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00ff88?style=for-the-badge&labelColor=0d1117)](mailto:190204ba@gmail.com)
+[![Open to Work](https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00ff88?style=for-the-badge&amp;labelColor=0d1117)](mailto:190204ba@gmail.com)
 
 </div>
 
@@ -41,7 +41,7 @@ $ cat bilal_akram.json
   "superpower"    : "Building full-stack products from idea → deployed",
   "current_focus" : ["Android", "Ethical Hacking", "System Design"],
   "fun_fact"      : "Half my skills came from bugs I accidentally created 😅",
-  "status"        : "Available for jobs, freelancing & open-source 🚀",
+  "status"        : "Available for jobs, freelancing &amp; open-source 🚀",
   "coffee_to_code": "1 : ∞"
 }
 ```
@@ -52,7 +52,7 @@ $ cat bilal_akram.json
 
 <div align="center">
 
-[![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=%230d1117&borderColor=%2300d4ff&qColor=%2300d4ff&aColor=%237b2fff&textColor=%23ffffff)](https://github.com/ABSphreak/readme-jokes)
+[![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&amp;bgColor=%230d1117&amp;borderColor=%2300d4ff&amp;qColor=%2300d4ff&amp;aColor=%237b2fff&amp;textColor=%23ffffff)](https://github.com/ABSphreak/readme-jokes)
 
 </div>
 
@@ -90,55 +90,55 @@ me.say_hi()
 
 ### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VDM-SL](https://img.shields.io/badge/VDM--SL-6A0DAD?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
+![VDM-SL](https://img.shields.io/badge/VDM--SL-6A0DAD?style=for-the-badge&amp;logoColor=white)
 
-### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks &amp; Libraries
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native_%2F_Expo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native_%2F_Expo-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&amp;logo=socketdotio&amp;logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white)
 
 ### 🤖 ML / AI / Data Science
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white)
 
-### 🗄️ Databases & APIs
+### 🗄️ Databases &amp; APIs
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon_DB-00E5BF?style=for-the-badge&logo=neon&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe_API-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white)
+![MSSQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&amp;logo=microsoft-sql-server&amp;logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_DB-00E5BF?style=for-the-badge&amp;logo=neon&amp;logoColor=black)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe_API-635BFF?style=for-the-badge&amp;logo=stripe&amp;logoColor=white)
 
-### 🔧 Tools & DevOps
+### 🔧 Tools &amp; DevOps
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white)
 
 </div>
 
@@ -181,7 +181,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BILALAKRAM27&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BILALAKRAM27&amp;theme=matrix&amp;no-bg=true&amp;no-frame=true&amp;column=7&amp;margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -191,7 +191,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Bilal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BILALAKRAM27&bg_color=0d1117&color=00d4ff&line=7b2fff&point=ffffff&area=true&hide_border=false&border_color=00d4ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bilal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BILALAKRAM27&amp;bg_color=0d1117&amp;color=00d4ff&amp;line=7b2fff&amp;point=ffffff&amp;area=true&amp;hide_border=false&amp;border_color=00d4ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -225,7 +225,7 @@ me.say_hi()
 This week I'm exploring:
 ┌───────────────────────────────────────────────┐
 │  📱  Android Development (Kotlin + Jetpack)   │
-│  🔐  Ethical Hacking & Penetration Testing    │
+│  🔐  Ethical Hacking &amp; Penetration Testing    │
 │  🏗️  Advanced System Design Patterns          │
 │  🤖  AI Integration in Mobile Apps            │
 └───────────────────────────────────────────────┘
@@ -243,7 +243,7 @@ This week I'm exploring:
 |-----------|---------|
 | 🔐 **Security First** | Every line I write considers the attacker's perspective. |
 | 🧱 **Build to Scale** | Clean architecture > clever hacks. Always. |
-| 🌱 **Never Stop Learning** | Currently: Android & iOS. Tomorrow: something new. |
+| 🌱 **Never Stop Learning** | Currently: Android &amp; iOS. Tomorrow: something new. |
 | 🤝 **Collaborate Openly** | The best code is written in teams, reviewed by critics. |
 | 🏔️ **Balance is Power** | When the bugs don't budge, the mountain always has answers. |
 | 🐛 **Embrace the Bug** | Every bug is just a feature waiting to be understood. |
@@ -288,11 +288,11 @@ This week I'm exploring:
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-View_My_Work-00d4ff?style=for-the-badge&labelColor=0d1117)](https://bilalakram27.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-View_My_Work-00d4ff?style=for-the-badge&amp;labelColor=0d1117)](https://bilalakram27.github.io/Portfolio/)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Let's_Connect-0077B5?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/in/bilal-akram-081b86268)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Let's_Connect-0077B5?style=for-the-badge&amp;labelColor=0d1117)](https://www.linkedin.com/in/bilal-akram-081b86268)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/📧_EMAIL-Hire_Me-00ff88?style=for-the-badge&labelColor=0d1117)](mailto:190204ba@gmail.com)
+[![Email](https://img.shields.io/badge/📧_EMAIL-Hire_Me-00ff88?style=for-the-badge&amp;labelColor=0d1117)](mailto:190204ba@gmail.com)
 
 <br/><br/>
 
@@ -302,10 +302,10 @@ This week I'm exploring:
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
 │   💼  Software Engineering Jobs  (full-time / part-time)           │
-│   🛠️  Freelance Web & Mobile Projects                               │
+│   🛠️  Freelance Web &amp; Mobile Projects                               │
 │   🤝  Open Source Collaboration                                     │
 │   🏗️  Startup MVP Development                                       │
-│   🎓  Mentorship & Knowledge Exchange                               │
+│   🎓  Mentorship &amp; Knowledge Exchange                               │
 │                                                                     │
 │         → Response time: within 24 hours ⚡                         │
 │         → Timezone: PKT (UTC+5)  🕐                                 │
@@ -335,7 +335,7 @@ This week I'm exploring:
 
 <div align="center">
 
-[![Spotify](https://img.shields.io/badge/Spotify-🎧_Lo--Fi_Beats_while_debugging-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
+[![Spotify](https://img.shields.io/badge/Spotify-🎧_Lo--Fi_Beats_while_debugging-1DB954?style=for-the-badge&amp;logo=spotify&amp;logoColor=white)](https://open.spotify.com)
 
 > *"Music is what feelings sound like. Debugging is what pain sounds like."*
 
