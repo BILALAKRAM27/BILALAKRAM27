@@ -1,11 +1,14 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗
-     ║  BILAL AKRAM — GitHub Profile README  v2.0                      ║
-     ║  Engineered. Animated. Actually reads the docs. Sometimes.      ║
-     ╚══════════════════════════════════════════════════════════════════╝ -->
-
+<!-- ██████╗ ██╗██╗      █████╗ ██╗      █████╗ ██╗  ██╗██████╗  █████╗ ███╗   ███╗
+   ██╔══██╗██║██║     ██╔══██╗██║     ██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗████╗ ████║
+   ██████╔╝██║██║     ███████║██║     ███████║█████╔╝ ██████╔╝███████║██╔████╔██║
+   ██╔══██╗██║██║     ██╔══██║██║     ██╔══██║██╔═██╗ ██╔══██╗██╔══██║██║╚██╔╝██║
+   ██████╔╝██║███████╗██║  ██║███████╗██║  ██║██║  ██╗██║  ██║██║  ██║██║ ╚═╝ ██║
+   ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ -->
 <div align="center">
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2fff&height=200&section=header&text=BILAL%20AKRAM&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Security%20Minded&descAlignY=58&descSize=20&animation=fadeIn" />
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:0a0a2e,70:00d4ff,100:7b2fff&amp;height=220&amp;section=header&amp;text=BILAL%20AKRAM&amp;fontSize=72&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Security%20Minded%20%7C%20Professional%20Bug%20Creator%20%26%20Fixer&amp;descAlignY=60&amp;descSize=17&amp;animation=fadeIn" />
 
 <br/>
 
