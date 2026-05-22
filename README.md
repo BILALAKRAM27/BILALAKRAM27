@@ -251,14 +251,6 @@ This week I'm exploring:
 
 ---
 
-## ⏱️ Weekly Coding Breakdown
-
-<!--START_SECTION:waka-->
-> 🔄 *WakaTime stats load here once WakaTime is connected — [set it up](https://wakatime.com) for live coding time tracking!*
-<!--END_SECTION:waka-->
-
----
-
 ## 🎭 Random Dev Mood Generator
 
 <div align="center">
