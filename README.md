@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a0a2e,70:00d4ff,100:7b2fff&height=220&section=header&text=BILAL%20AKRAM&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Security%20Minded%20%7C%20Professional%20Bug%20Creator%20%26%20Fixer&descAlignY=60&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:0a0a2e,70:00d4ff,100:7b2fff&amp;height=220&amp;section=header&amp;text=BILAL%20AKRAM&amp;fontSize=72&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Security%20Minded%20%7C%20Professional%20Bug%20Creator%20%26%20Fixer&amp;descAlignY=60&amp;descSize=17&amp;animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Building+products%2C+not+just+pushing+code.;%F0%9F%94%90+Security+is+a+feature%2C+not+an+afterthought.;%F0%9F%92%A1+99+bugs+in+the+code...+I+added+one+more.;%F0%9F%8C%90+Full-Stack+%7C+Mobile+%7C+Backend+%7C+AI;%E2%9A%A1+Turning+caffeine+%26+curiosity+into+shipped+products.;%F0%9F%A4%96+My+code+works.+I+have+no+idea+why.;%F0%9F%A4%9D+Let%27s+build+something+the+world+needs." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=800&amp;size=24&amp;pause=1000&amp;color=00D4FF&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=%F0%9F%9A%80+Building+products%2C+not+just+pushing+code.;%F0%9F%94%90+Security+is+a+feature%2C+not+an+afterthought.;%F0%9F%92%A1+99+bugs+in+the+code...+I+added+one+more.;%F0%9F%8C%90+Full-Stack+%7C+Mobile+%7C+Backend+%7C+AI;%E2%9A%A1+Turning+caffeine+%26+curiosity+into+shipped+products.;%F0%9F%A4%96+My+code+works.+I+have+no+idea+why.;%F0%9F%A4%9D+Let%27s+build+something+the+world+needs." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -166,12 +166,12 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BILALAKRAM27&show_icons=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=ffffff&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BILALAKRAM27&theme=tokyonight&background=0d1117&border=00d4ff&ring=7b2fff&fire=00d4ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00d4ff&sideNums=7b2fff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BILALAKRAM27&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=00d4ff&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;icon_color=7b2fff&amp;text_color=ffffff&amp;hide_border=false&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BILALAKRAM27&amp;theme=tokyonight&amp;background=0d1117&amp;border=00d4ff&amp;ring=7b2fff&amp;fire=00d4ff&amp;currStreakLabel=ffffff&amp;sideLabels=ffffff&amp;currStreakNum=00d4ff&amp;sideNums=7b2fff" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BILALAKRAM27&layout=donut&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&hide_border=false" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BILALAKRAM27&amp;layout=donut&amp;theme=tokyonight&amp;border_color=00d4ff&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;text_color=ffffff&amp;hide_border=false" />
 
 </div>
 
@@ -349,7 +349,7 @@ This week I'm exploring:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00d4ff,100:0d1117&height=130&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7b2fff,50:00d4ff,100:0d1117&amp;height=130&amp;section=footer&amp;animation=fadeIn" />
 
 **Crafted with 💖, ☕, and way too many Stack Overflow tabs — by Bilal Akram**
 
