@@ -56,9 +56,9 @@ $ cat bilal_akram.json
   "location"    : "Pakistan 🇵🇰",
   "pronouns"    : "he / him",
   "superpower"  : "Building full-stack products from idea → deployed",
-  "current_focus": ["Kotlin (Android)", "Ethical Hacking", "System Design"],
-  "fun_fact"    : "I debug code on mountain trails — fresh air = fresh eyes 🏔️",
-  "status"      : "Available for internships, freelancing & collaboration 🚀"
+  "current_focus": ["Android", "Ethical Hacking", "System Design"],
+  "fun_fact"    : "Half of my coding skills came from fixing bugs I created myself 😅",
+  "status"      : "Available for Job, freelancing & collaboration 🚀"
 }
 ```
 
@@ -159,9 +159,9 @@ $ cat bilal_akram.json
 |-----------|---------|
 | 🔐 **Security First** | Every line I write considers the attacker's perspective. |
 | 🧱 **Build to Scale** | Clean architecture > clever hacks. Always. |
-| 🌱 **Never Stop Learning** | Currently: Kotlin + Ethical Hacking. Tomorrow: something new. |
+| 🌱 **Never Stop Learning** | Currently: Andriod and IOS. Tomorrow: something new. |
 | 🤝 **Collaborate Openly** | The best code is written in teams, reviewed by critics. |
-| 🏔️ **Balance is Power** | When the bugs don't budge, the mountain always has answers. |
+| 🏔️ **Balance is Power** | When the bugs don't budge, the Mountain always has answers. |
 
 </div>
 
@@ -193,9 +193,9 @@ $ cat bilal_akram.json
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   💼  Software Engineering Internships                      │
-│   🛠️  Freelance Web / Mobile Projects                       │
-│   🤝  Open Source Collaboration                             │
+│   💼  Software Engineering Jobs                            │
+│   🛠️  Freelance Web / Mobile Projects                      │
+│   🤝  Open Source Collaboration                            │
 │   🏗️  Startup MVP Development                              │
 │                                                             │
 │         → Response time: within 24 hours ⚡                │
@@ -221,6 +221,6 @@ $ cat bilal_akram.json
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00d4ff,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
-**Made with 🔥 by Bilal Akram — where code meets curiosity**
+**Made with 💖 by Bilal Akram  where code meets curiosity**
 
 </div>
